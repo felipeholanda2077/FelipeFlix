@@ -47,9 +47,9 @@ header nav a:hover{
 /*filme principal*/
 .filme-principal{
     font-size:16px;
-    background:fixed url('/img/It\ A\ coisa.jpeg');
+    background: url("../img/IT.jpeg");
 
-    height:400px;
+    height:550px;
     background-size:cover;
  
 
