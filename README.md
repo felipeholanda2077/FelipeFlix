@@ -9,7 +9,7 @@
 <a href="#Tecnologias">Tecnologias</a> •
 <a href="#Ferramentas">Ferramentas</a>
 
-# 👨🏻‍💻 Sobre o Projeto
+# Sobre o Projeto
 
 <h4>Tentativa de uma ideia de site similar a home page do netflix</h4>
 
