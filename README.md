@@ -13,8 +13,6 @@
 
 <h4 align="center">Tentativa de uma ideia de site similar a home page do netflix</h4>
 
-<br>
-
 
 <h1 align="center">Imagem</h1>
 
