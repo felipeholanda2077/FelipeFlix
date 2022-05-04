@@ -9,6 +9,8 @@
 <a href="#Tecnologias-">Tecnologias</a> •
 <a href="#Ferramentas">Ferramentas</a></p>
 
+<br>
+
 <h1 align="center">Sobre o Projeto</h1>
 
 <h4 align="center">Tentativa de uma ideia de site similar a home page do netflix</h4>
